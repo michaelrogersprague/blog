@@ -3,9 +3,11 @@ title: A Little Fable
 description: A Little Fable.
 date: 2026-11-16
 ---
-"Alas," said the mouse, "the whole world is growing smaller every day. At the beginning it was so big that I was afraid, I kept running and running, and I was glad when I saw walls far away to the right and left, but these long walls have narrowed so quickly that I am in the last chamber already, and there in the corner stands the trap that I must run into."
-
-"You only need to change your direction," said the cat, and ate it up.
+> *"Alas," said the mouse, "the whole world is growing smaller every day. At the beginning it was so big that I was afraid, I kept running and running, and I was glad when I saw walls far away to the right and left, but these long walls have narrowed so quickly that I am in the last chamber already, and there in the corner stands the trap that I must run into."*
+>
+> *"You only need to change your direction," said the cat, and ate it up.*
+>
+> — Franz Kafka, *A Little Fable*
 
 ---
 ### Think. 
@@ -19,7 +21,7 @@ I would suggest another, more interesting, and deeply human motivation. The prof
 ### N=1 predictions. 
 Beyond the (human) motivations, what to make of offering a prediction in the face of doom. Whether that be p(doom_nuclear) or p(doom_AI). Whether it be economic catastrophe, rebellion, war, or subjugation. What to make of it?
 
-Doctors rarely give exact predictions. When confronting a terrifying prognosis, patients ask, what are my odds? what chance do you give me?  Setting aside cases of innumeracy, doctors know there is a significant individual variation even when the population average is known (with AI, this is hardly the case). They might fear that the patient takes actions contrary to their best interests in the face of a low probability of success -- the Iatrogenic potential (https://jamanetwork.com/journals/jama/article-abstract/2661032). Or they could fear being held liable to a promised outcome (you said it was only 1%!) Better to chose a higher probability to hedge, like 20%.
+Doctors rarely give exact predictions. When confronting a terrifying prognosis, patients ask, what are my odds? what chance do you give me?  Setting aside cases of innumeracy, doctors know there is a significant individual variation even when the population average is known (with AI, this is hardly the case). They might fear that the patient takes actions contrary to their best interests in the face of a low probability of success -- the [iatrogenic potential](https://jamanetwork.com/journals/jama/article-abstract/2661032). Or they could fear being held liable to a promised outcome (you said it was only 1%!) Better to chose a higher probability to hedge, like 20%.
 
 But I still do wonder: what are our odds? What chance do you give us?
 

@@ -6,6 +6,6 @@ export default {
 	author: {
 		name: "Michael Sprague",
 		email: "michael.r.sprague@gmail.com",
-		url: "https://michaelrsprague.com/about/"
+		url: "https://michaelrsprague.com/"
 	}
 }
