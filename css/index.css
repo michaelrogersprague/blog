@@ -98,8 +98,7 @@ a[href]:active {
 	color: var(--text-color-link-active);
 }
 
-main,
-footer {
+main {
 	padding: 1rem;
 }
 main :first-child {

@@ -23,11 +23,6 @@ export default function(eleventyConfig) {
 		return array.slice(0, n);
 	});
 
-	// Return the smallest number argument
-	eleventyConfig.addFilter("min", (...numbers) => {
-		return Math.min.apply(null, numbers);
-	});
-
 	// Return the keys used in an object
 	eleventyConfig.addFilter("getKeys", target => {
 		return Object.keys(target);
