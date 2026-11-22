@@ -43,3 +43,7 @@ All filed with HERE Global B.V.
 - [Asynchronous parameter aggregation for machine learning](https://patents.google.com/patent/US11373115B2/en). M. Kopp, M. Neun, **M. Sprague**, A. Jalalirad, M. Scavuzzo, C. Capota. US Patent 11,373,115 (2022).
 - [Managed edge learning in heterogeneous environments](https://patents.google.com/patent/US20200410288A1/en). C. Capota, **M. Sprague**, M. Scavuzzo, A. Jalalirad, L. Do, B. Divakaruni. US Patent App. 16/453,204 (2020).
 - [Edge learning](https://patents.google.com/patent/US20200334524A1/en). **M. Sprague**, A. Jalalirad, M. Scavuzzo, C. Capota. US Patent App. 16/386,700 (2020); granted in Europe as [EP 3726439 B1](https://patents.google.com/patent/EP3726439B1/en) (2023).
+
+## Other Writing
+
+- [Counterintuitive solutions](https://doi.org/10.1126/science.1224871). **M. Sprague**. *Science* 337, 293 (2012).
