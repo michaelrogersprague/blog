@@ -14,7 +14,6 @@ You can reach me at michael.r.sprague@gmail.com
 ## [Blog](/blog/)
 
 {% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
 {% if collections.posts | length > 3 %}
