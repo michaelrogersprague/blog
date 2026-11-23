@@ -4,7 +4,7 @@ const eleventyNavigation = {
 	order: 1
 };
 ---
-Hullo, I'm Michael Sprague. I am interested in well, _everything_. To be more specific, machine learning, consumer marketplaces, physics, quantum computing, and the writing of Vladimir Nabokov -- see [Artifacts](/artifacts/) for papers, patents. 
+Hullo, I'm Michael Sprague. I am interested in well, _everything_. To be more specific, machine learning, consumer marketplaces, data science, physics, quantum computing, and the writing of Vladimir Nabokov -- see [Artifacts](/artifacts/) for papers, patents. 
 
 Currently, I am a Director of Engineering at Yelp in Toronto, where I lead engineering for ads. Before Yelp, I managed machine learning teams at Deliveroo (now part of Doordash) in London. And before that, I did applied machine learning research at [HERE Technologies](https://www.here.com/), and I built the image-processing pipeline for an MRI-guided prostate cancer therapy at [Profound Medical](https://profoundmedical.com/).
 
