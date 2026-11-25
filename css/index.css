@@ -227,6 +227,14 @@ header {
 	color: var(--text-color);
 }
 
+.tagline {
+	margin: 0.35em 0 0;
+	font-size: 0.9rem;
+	font-style: italic;
+	line-height: 1.4;
+	color: var(--text-color-muted);
+}
+
 /* Nav */
 .nav {
 	display: flex;
