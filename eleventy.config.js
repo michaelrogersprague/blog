@@ -20,6 +20,10 @@ export default async function(eleventyConfig) {
 		}
 	});
 
+	// Typographer: -- becomes an en dash, --- an em dash, ... an ellipsis,
+	// and straight quotes become curly quotes. Code is left alone.
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.set({ typographer: true }));
+
 	// Everything in public/ is copied to the site root, e.g. public/files/ -> /files/
 	eleventyConfig
 		.addPassthroughCopy({ "./public/": "/" })
