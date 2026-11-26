@@ -12,7 +12,7 @@ In the age of AI, this is hill climbing, those are evals. But it also gestures t
 
 Two recent studies have revisited N-version programming for AI, varying languages, models, and prompting strategies to measure how correlated the errors are.<sup id="fnref-2"><a href="#fn-2">2</a></sup> Using different models mattered more than using different languages or prompts with the same model. Combining versions did reduce errors, but mixed-model ensembles captured only about half of the reliability gain you would expect if the errors were uncorrelated, and single-model ensembles captured less than a third.
 
-Does this mean that LLMs mirror some of the lack of independence observed in humans? Does this mean there are objectively hard parts of problems that confuse human and AI alike? Perhaps. But I do expect that adding diversity in AI thought -- adding uncorrelated error -- will be valuable for the future construction of Artificial Intelligence. So far, in one study, pairing a human-written program with an AI-written one gave the largest reduction in coincident failures.<sup id="fnref-3"><a href="#fn-3">3</a></sup>
+Does this mean that LLMs mirror some of the lack of independence observed in humans? Does this mean there are objectively hard parts of problems that confuse human and AI alike? Perhaps. But I do expect that adding diversity in AI thought -- adding uncorrelated error -- will be valuable for the future construction of Artificial Intelligence. So far, the lowest errors are from human + AI.<sup id="fnref-3"><a href="#fn-3">3</a></sup>
 
 ---
 
